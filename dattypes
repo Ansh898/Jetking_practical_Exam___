@@ -1,0 +1,21 @@
+fn main ()  {
+    //Integer variable
+    let Integer_var: i32 = 99;
+    println!("Integer variable: {}", Integer_var);
+
+    //Floating Varabile
+    let float_var: f64 =6.49;
+    println!("float variable: {}", float_var);
+
+    //Boolean Variable
+    let bool_var: bool =true;
+    println!("boolean Varabile: {}", bool_var );
+
+    //Character Variable
+    let char_var: char = 'A';
+    println!("character variable: {}", char_var);
+
+    //String variable
+    let string_var: &str = "Hello ,anshul!";
+    println!("string variable: {}", string_var);
+}
